@@ -1,0 +1,12 @@
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\bin\Debug\net9.0\Fintech.Entities.deps.json
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\bin\Debug\net9.0\Fintech.Entities.dll
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\bin\Debug\net9.0\Fintech.Entities.pdb
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\Fintech.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\Fintech.Entities.AssemblyInfoInputs.cache
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\Fintech.Entities.AssemblyInfo.cs
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\Fintech.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\Fintech.Entities.sourcelink.json
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\Fintech.Entities.dll
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\refint\Fintech.Entities.dll
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\Fintech.Entities.pdb
+C:\Users\ECENUR İŞIK\OneDrive\Masaüstü\fintech\Fintech.Entities\obj\Debug\net9.0\ref\Fintech.Entities.dll
